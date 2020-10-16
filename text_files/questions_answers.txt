@@ -1,0 +1,4 @@
+What is the capital of India? -- New Delhi
+What is the first capital of India? -- Kolkata
+What is the output of print("Hello"[::-1][::2]) -- olH
+What is the value of 1*6-8+9/3+21-7 -- 15 
