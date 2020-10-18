@@ -34,9 +34,9 @@ After completing the designing of chatbot.
 ![](https://github.com/Lakshman511/BasicBot/blob/master/chat_img.jpg)
 
 ## References and tools
-* Since it is basic version I haven't refered any where for coding.But idea of this bot is takent from one of the lectures of our professor.
+* Since it is basic version I haven't refered any where for coding.But idea of this bot is taken from one of the lectures of our professor.
 * Coming to the tools I've used for making this repository...
-* First of all I would like to thank the git.Previously I used to upload my all files of any project manually.But this time I've used git to do that.One of the advantages of git I've found is it uploaded my project in the same structure as it is in my system.
+* First of all I would like to thank the git.Previously I used to upload all the files of any project manually.But this time I've used git to do that.One of the advantages of git I've found is it uploaded my project in the same structure as it is in my system.Earlier I used to struggle a lot to create different folders and to upload files in it.
 * Thanks to the guy in [this](https://youtu.be/xwlQimbwJJE) video for explaining git in very simple and clean way.
 * I've used [this](https://creately.com) tool to draw the above block diagram.
 
