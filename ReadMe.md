@@ -1,7 +1,7 @@
 # BasicBot
 
 ## Goal
-The main goal is to build a console based chatbot.This can perform certain number of tasks. This takes a number related to the task that user wants this bot to perform,it should perform the task related to that particular number.The main intension of doing this is bot is to learn how to structure different files while building a chatbot and to gain some intution in making more useful chatbots. Although this chatbot is not robust it can make some conversations happen.
+The main goal is to build a console based chatbot.This can perform certain number of tasks. This takes a number related to the task that user wants this bot to perform,this performs the task related to that particular number.The main intension of doing this  bot is to learn how to structure different files while building a chatbot and to gain some intution in making more useful chatbots. Although this chatbot is not robust it can make some conversations happen.
 
 ## What this chatbot can do?
 * It greets the user.
@@ -32,6 +32,9 @@ After completing the designing of chatbot.
 
 ## This is the chat of Our bot
 ![](https://github.com/Lakshman511/BasicBot/blob/master/chat_img.jpg)
+
+
+* [This is the youtube video](https://youtu.be/PELp-rFbdwQ) Where you can see my interaction with this chatbot.
 
 ## References and tools
 * Since it is basic version I haven't refered any where for coding.But idea of this bot is taken from one of the lectures of our professor.
