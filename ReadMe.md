@@ -1,5 +1,7 @@
 # BasicBot
 
+Team Members: 18pa1a0511  18pa1a0547
+
 ## Goal
 The main goal is to build a console based chatbot.This can perform certain number of tasks. This takes a number related to the task that user wants this bot to perform,this performs the task related to that particular number.The main intension of doing this  bot is to learn how to structure different files while building a chatbot and to gain some intution in making more useful chatbots. Although this chatbot is not robust it can make some conversations happen.
 
